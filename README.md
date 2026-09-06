@@ -35,7 +35,7 @@ It expects `TestComputeMetricsCountsOperationalWork` to pass. The runnable comma
 
 ## Before you deploy: Property Maintenance Metrics Go
 
-The happy path is above. For production, the checklist for Property Maintenance Metrics Go is straightforward enough, although I still want the operational details written down before this gets near an on-call rotation.
+Above is the happy path. The production checklist: The details below apply to Property Maintenance Metrics Go.
 
 **Account & key**
 
